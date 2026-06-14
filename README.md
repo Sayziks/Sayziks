@@ -26,7 +26,7 @@
 
 <br />
 
-<!-- Карточка статистики -->
+<!-- Единственная стабильно работающая карточка статистики -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayziks&show_icons=true&locale=ru&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=ffffff&border_color=ff3333&border_radius=10" alt="Статистика Sayziks" />
 </p>
